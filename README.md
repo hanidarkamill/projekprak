@@ -1,4 +1,9 @@
-# projek3
+# Cake App
+
+Kelompok 8
+Anggota :
+1. Tari Azari (124220001)
+2. Hanidar Raffilia Kamil (124220019)
 
 A new Flutter project.
 
